@@ -3,7 +3,7 @@
 
 A simple google search clone
 
-Try it now ! https://google-search-react-api.netlify.app/search
+Try it now ! https://google-search-react-api.netlify.app/
 ## Tech Stack
 
 **Client:** React, TailwindCSS
